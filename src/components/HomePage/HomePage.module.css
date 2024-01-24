@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 22px;
+    height: 439px;
+    max-width: 679px;
+    border: 1px solid black;
+    /* background-image: url('../../assets/images/kitten.svg'); */
+}
+
+@media (max-width: 680px) {
+    .container {
+        max-width: 276px;
+    }
+}

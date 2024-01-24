@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "Kreon";
+    src:
+        local("Kreon"),
+        url('./assets/fonts/static/Kreon-Regular.ttf') format("ttf"),
+}

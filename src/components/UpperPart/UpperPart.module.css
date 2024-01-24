@@ -1,0 +1,10 @@
+.upper {
+    padding-left: 20px;
+}
+
+@media (max-width: 680px) {
+    .upper {
+        padding-left: 3px;
+        text-align: center;
+    }
+}

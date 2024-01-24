@@ -1,0 +1,12 @@
+.cat {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    z-index: -1;
+}
+
+@media (max-width: 680px) {
+    .cat {
+        display: none;
+    }
+}
